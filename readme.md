@@ -12,7 +12,9 @@ gem "bridgetown_picture_tag", git: "https://github.com/seroperson/bridgetown_pic
 
 And then add the initializer to your configuration in `config/initializers.rb`:
 
+```ruby
 init :"bridgetown_picture_tag"
+```
 
 # Bridgetown Picture Tag
 
