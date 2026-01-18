@@ -10,6 +10,10 @@ To use in your project:
 gem "bridgetown_picture_tag", git: "https://github.com/seroperson/bridgetown_picture_tag.git"
 ```
 
+And then add the initializer to your configuration in `config/initializers.rb`:
+
+init :"bridgetown_picture_tag"
+
 # Bridgetown Picture Tag
 
 **Responsive Images done correctly.**
