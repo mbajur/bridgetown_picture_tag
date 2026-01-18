@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   # addressable is used to url-encode image filenames.
   spec.add_runtime_dependency 'addressable', '~> 2.6'
   # Bridgetown itself
-  spec.add_runtime_dependency 'bridgetown', '~> 2.0.0.beta2'
+  spec.add_runtime_dependency 'bridgetown', '~> 2.1.1'
   # MIME types are needed for <source> tags' type= attributes.
   spec.add_runtime_dependency 'mime-types', '~> 3.0'
   # objective_elements handles HTML generation.
